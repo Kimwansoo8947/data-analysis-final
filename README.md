@@ -8,7 +8,7 @@
 - **주제:** 2023 우체국 택배 배달지 기준 물동량 데이터를 활용한 지역별/계절별 수요 패턴 분석 및 예측
 - **분석 대상:** 전국 34,502개 국가기초구역(5자리 우편번호) 전수 데이터 (총 414,024행)
 - **개발 환경:** VS Code (Jupyter Notebook)
-- **사용 언어 및 라이브러리:** Python 3.x, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **사용 언어 및 라이브러리:** Python 3.1.2.10, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 ---
 
