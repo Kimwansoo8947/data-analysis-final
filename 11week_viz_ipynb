@@ -39,7 +39,6 @@ print('특성 중요도 Top 10 (%)')
 print(top10.to_string(index=False))
 
 # 시각화
-
 # 수평 막대 그래프 사용 (1위가 맨 위에 오도록 정렬 (역순))
 top10_rev = top10.iloc[::-1]
 
